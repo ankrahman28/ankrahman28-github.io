@@ -1,0 +1,81 @@
+@font-face{
+	font-family: myFirstFont;
+	src: url(Aliquam.ttf);
+}
+
+#Resume{
+	color: #003300;
+	margin-top: 20px;
+	font-size: 24px;
+	text-align: center;
+	background-color: #990000;
+	font-family: myFirstFont;
+	-webkit-border-image: url(border.png) 30 30 round;
+	-o-border-image: url(border.png) 30 30 round;
+	border-image: url(border.png) 30 30 round;
+	
+
+
+
+}
+#Obj{
+	color: #003300;
+	font-size: 18px;
+	text-align: center;
+	background-color: #990000;
+	font-family: myFirstFont;
+	-webkit-border-image: url(border.png) 30 30 round;
+	-o-border-image: url(border.png) 30 30 round;
+	border-image: url(border.png) 30 30 round;
+
+
+}
+
+
+}
+h1 {
+	background-color: #003300;
+	color: #003300;
+	font-size: 48px;
+	font-family: myFirstFont ;
+	text-align: center;
+
+}
+#clickme{
+	height: 100px;
+	width: 100px;
+	animation-duration: 3s;
+	animation-name: slidein;
+}
+
+@keyframes slidein{
+	from{
+		margin-left: 100%;
+		width: 300% ;
+	}
+
+	to{
+		margin-left: 0%;
+		width: 100% ;
+	}
+}
+
+#GPA{
+	color: #003300;
+	font-size: 18px;
+	text-align: center;
+	background-color: #990000;
+	font-family: myFirstFont;
+	-webkit-border-image: url(border.png) 30 30 round;
+	-o-border-image: url(border.png) 30 30 round;
+	border-image: url(border.png) 30 30 round;
+
+
+}
+
+#Body{
+	background-image: url("download-cool-backgrounds.jpg");
+	background-color: #cccccc;
+}
+
+.box 
